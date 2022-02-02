@@ -1,0 +1,2 @@
+#línea añadida en /etc/crontab para que ejecute el script que esta en mi home
+51 15   1-5 * * angel /home/angel/cpseguridad.sh
